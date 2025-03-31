@@ -25,3 +25,4 @@ git revert 5a6d718e9cb74231a599c7e19ba8e28974d487ac
 :hammer: Credits
 ---------------
 [RyuujiX/android_kernel_asus_sdm660](https://github.com/RyuujiX/android_kernel_asus_sdm660)
+[karthik1896/kernel_asus_sdm660](https://github.com/karthik1896/kernel_asus_sdm660)
